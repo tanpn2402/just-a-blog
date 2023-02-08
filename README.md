@@ -10,13 +10,14 @@ System requires:
 ## 1. Strapi
 Version: 4.3.0 with Typescript.
 
-### 1.1. Install Strapi dependencies
+### 1.1. Install dependencies
 
 ```sh
 $ npm i
 ```
 
-### 1.2. Run Strapi local
+### 1.2. Run local
+Create new file `./strapi/.env` and copy all content in `./strapi/.env.sample`, then run:
 
 ```sh
 $ npm run develop
@@ -123,13 +124,13 @@ curl --request GET \
 ## 2. NextJs
 Version: 13.1.6 with `appDir` experimental feature.
 
-### 2.1. Install Strapi dependencies
+### 2.1. Install dependencies
 
 ```sh
 $ npm i
 ```
 
-### 2.2. Run Strapi local
+### 2.2. Run local
 
 ```sh
 $ npm run dev
