@@ -121,6 +121,10 @@ curl --request GET \
   --header 'Content-Type: application/json'
 ```
 
+### 1.5. Strapi Admin panel
+[Strapi Admin panel Here](http://localhost:1337/).
+Account/Password: admin@gmail.com / 12wqasxZ
+
 ## 2. NextJs
 Version: 13.1.6 with `appDir` experimental feature.
 
